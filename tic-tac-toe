@@ -1,4 +1,4 @@
-fondo=[120,25,25];
+fondo=[220,25,25];
 var turn=true;
 var malla = [0,0,0,0,0,0,0,0,0]; 
 //malla[0]=9
